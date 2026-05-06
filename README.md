@@ -2,7 +2,7 @@
 
 ## 📖 Overview
 
-This project focuses on predicting the **compressive strength of concrete** based on its composition (cement, water, fly ash, etc.) using machine learning techniques.
+This project focuses on predicting the **compressive strength of concrete** based on its composition (cement, water, etc.) using machine learning techniques.
 
 Concrete strength prediction is a **non-linear regression problem**, making it ideal for comparing traditional statistical models with advanced ensemble methods.
 
